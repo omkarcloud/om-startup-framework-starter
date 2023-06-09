@@ -15,7 +15,7 @@
 Clone Starter Template
 
 ```bash
-git clone https://github.com/omkarcloud/om-startup-framework my-om-project
+git clone https://github.com/omkarcloud/om-startup-framework-starter my-om-project
 cd my-om-project
 ```
 
